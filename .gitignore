@@ -23,3 +23,9 @@ hs_err_pid*
 .idea/workspace.xml
 src/test/.DS_Store
 .idea/workspace.xml
+src/main/.DS_Store
+src/.DS_Store
+target/.DS_Store
+target/generated-sources/.DS_Store
+target/generated-test-sources/.DS_Store
+.idea/workspace.xml
