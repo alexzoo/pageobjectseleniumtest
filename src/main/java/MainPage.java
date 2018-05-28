@@ -16,6 +16,8 @@ public class MainPage {
     By passwordField = By.xpath("//input[@id='user[password]']");
     By signUpFormButton = By.xpath("//button[text()='Sign up for GitHub']");
 
+    //comment
+
 
 
 
