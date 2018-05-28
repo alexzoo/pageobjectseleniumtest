@@ -6,4 +6,9 @@ public class testng_temp {
     public void Test1(){
         System.out.println("Hello");
     }
+
+    @Test
+    public void Test2() {
+        System.out.println("Bye");
+    }
 }
