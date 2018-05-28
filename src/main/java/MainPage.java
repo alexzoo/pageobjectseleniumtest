@@ -1,6 +1,7 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+
 public class MainPage {
 
     private WebDriver driver;
@@ -17,8 +18,6 @@ public class MainPage {
     By signUpFormButton = By.xpath("//button[text()='Sign up for GitHub']");
 
     //comment
-
-
 
 
 
