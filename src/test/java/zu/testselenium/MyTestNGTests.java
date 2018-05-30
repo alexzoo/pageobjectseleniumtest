@@ -1,6 +1,8 @@
+package zu.testselenium;
+
 import org.testng.annotations.Test;
 
-public class testng_temp {
+public class MyTestNGTests {
 
     @Test
     public void Test1(){
