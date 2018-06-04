@@ -21,7 +21,7 @@ public class MyTestNGTests {
 
 
         Properties prop = new Properties();
-        FileInputStream fis = new FileInputStream("/Users/alexzoo/Documents/projects/pageobjectseleniumtest/src/test/java/zu/testselenium/datadriventest.properties");
+        FileInputStream fis = new FileInputStream("/Users/alexzoo/Documents/projects/pageobjectseleniumtest/src/test/java/zu/testselenium/datadriven.properties");
 
         prop.load(fis);
 
@@ -48,7 +48,7 @@ public class MyTestNGTests {
     public void passwordTest() throws IOException {
 
         Properties prop = new Properties();
-        FileInputStream fis = new FileInputStream("/Users/alexzoo/Documents/projects/pageobjectseleniumtest/src/test/java/zu/testselenium/datadriventest.properties");
+        FileInputStream fis = new FileInputStream("/Users/alexzoo/Documents/projects/pageobjectseleniumtest/src/test/java/zu/testselenium/datadriven.properties");
 
         prop.load(fis);
 
