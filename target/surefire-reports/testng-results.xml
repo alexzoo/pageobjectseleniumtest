@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-05-30T10:22:07Z" name="Surefire suite" finished-at="2018-05-30T10:22:07Z" duration-ms="24">
+  <suite started-at="2018-06-04T07:52:50Z" name="Surefire suite" finished-at="2018-06-04T07:52:50Z" duration-ms="32">
     <groups>
     </groups>
-    <test started-at="2018-05-30T10:22:07Z" name="Surefire test" finished-at="2018-05-30T10:22:07Z" duration-ms="24">
+    <test started-at="2018-06-04T07:52:50Z" name="Surefire test" finished-at="2018-06-04T07:52:50Z" duration-ms="32">
       <class name="zu.testselenium.MyTestNGTests">
-        <test-method signature="Test1()[pri:0, instance:zu.testselenium.MyTestNGTests@6fe7aac8]" started-at="2018-05-30T10:22:07Z" name="Test1" finished-at="2018-05-30T10:22:07Z" duration-ms="6" status="PASS">
+        <test-method signature="Test1()[pri:0, instance:zu.testselenium.MyTestNGTests@6fe7aac8]" started-at="2018-06-04T07:52:50Z" name="Test1" finished-at="2018-06-04T07:52:50Z" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test1 -->
-        <test-method signature="Test2()[pri:0, instance:zu.testselenium.MyTestNGTests@6fe7aac8]" started-at="2018-05-30T10:22:07Z" name="Test2" finished-at="2018-05-30T10:22:07Z" duration-ms="0" status="PASS">
+        <test-method signature="Test2()[pri:0, instance:zu.testselenium.MyTestNGTests@6fe7aac8]" started-at="2018-06-04T07:52:50Z" name="Test2" finished-at="2018-06-04T07:52:50Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test2 -->
