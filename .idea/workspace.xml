@@ -34,8 +34,8 @@
       <file leaf-file-name="ExcelDriven.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/zu/testselenium/ExcelDriven.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="315">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +72,12 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>XSS</find>
+    </findStrings>
     <replaceStrings>
       <replace />
+      <replace>HSS</replace>
     </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -235,7 +239,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MyTestNGTests.userTest">
+  <component name="RunManager" selected="Application.ExcelDriven">
+    <configuration name="ExcelDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zu.testselenium.ExcelDriven" />
+      <module name="pageobjectseleniumtest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zu.testselenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -394,29 +409,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="/Users/alexzoo/Documents/projects/pageobjectseleniumtest/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="pageobjectseleniumtest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -441,19 +433,19 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.MyTestNGTests" />
-      <item itemvalue="TestNG./Users/alexzoo/Documents/projects/pageobjectseleniumtest/testng.xml" />
       <item itemvalue="TestNG.MyTestNGTests.userTest" />
       <item itemvalue="TestNG.MyTestNGTests.passwordTest" />
       <item itemvalue="TestNG.MyTestNGTests.userTest (1)" />
       <item itemvalue="TestNG.MyTestNGTests.userTest (2)" />
+      <item itemvalue="Application.ExcelDriven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExcelDriven" />
         <item itemvalue="TestNG.MyTestNGTests.userTest" />
         <item itemvalue="TestNG.MyTestNGTests.userTest (2)" />
         <item itemvalue="TestNG.MyTestNGTests.passwordTest" />
         <item itemvalue="TestNG.MyTestNGTests.userTest (1)" />
-        <item itemvalue="TestNG./Users/alexzoo/Documents/projects/pageobjectseleniumtest/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -525,12 +517,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500394" side_tool="true" weight="0.329582" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3286052" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960598" weight="0.29753265" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960598" visible="true" weight="0.29753265" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49960598" weight="0.329582" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.2293578" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32946298" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49880096" visible="true" weight="0.2293578" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280116" />
       <window_info id="Structure" order="1" sideWeight="0.50119907" side_tool="true" weight="0.27029157" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -702,8 +694,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/zu/testselenium/ExcelDriven.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
